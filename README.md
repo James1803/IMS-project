@@ -1,7 +1,7 @@
 Coverage: 34%
 # Project Title
 
-One Paragraph of project description goes here
+The aim of this project was to make an inventory management system. The user would be able to add customers to the system, add items to the system and make orders. The user can do this via the user interface provided with the template.
 
 ## Getting Started
 
