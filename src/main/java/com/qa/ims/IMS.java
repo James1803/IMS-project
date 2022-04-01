@@ -12,8 +12,8 @@ import com.qa.ims.persistence.dao.CustomerDAO;
 import com.qa.ims.persistence.dao.ItemDAO;
 import com.qa.ims.persistence.dao.OrderDAO;
 import com.qa.ims.persistence.domain.Domain;
-import com.qa.ims.utils.DBUtils;
-import com.qa.ims.utils.Utils;
+import com.qa.ims.utils.DBUtils; 
+import com.qa.ims.utils.Utils; 
 
 public class IMS {
 
