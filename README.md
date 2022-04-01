@@ -1,7 +1,7 @@
 Coverage: 34%
 # Project Title
 
-One Paragraph of project description goes here
+The aim of this project was to make an inventory management system. The user would be able to add customers to the system, add items to the system and make orders. The user can do this via the user interface provided with the template.
 
 ## Getting Started
 
@@ -12,7 +12,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+Eclipse
+Junit
+Mockito
+MySQL workbench
 ```
 
 ### Installing
